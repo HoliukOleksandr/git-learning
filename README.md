@@ -1,4 +1,6 @@
-﻿# Web-programming. Learning git.
+## Hello everyone!!!!
+
+# Web-programming. Learning git.
 
 ---
 
@@ -30,6 +32,13 @@ Greetings to all!
 ## Hello!
 
 After completing the course on git commands, I've learnt a lot of commands that I didn't even know existed before: rebase, checkout, options of push, pull, and fetch. So this course was really useful, and I enjoyed it, even though it took a lot of time. Actually, all commands are useful, so, I think, sooner or later I'll use them all
+
+---
+
+## Hi!
+
+I'm Koka Maxim I got a lot of useful material and insights that will help me in my future projects.
+
 
 ---
 
@@ -87,6 +96,10 @@ My name is Danylo. My impression is positive, due to the fact that Git has so mu
 ## Hello everyone!
 
 I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
+Feature
+---
+## Hello everyone! 
+My name is Volodymyr. This cource was great. I learned a lot about Git.
 
 ---
 
@@ -118,21 +131,21 @@ I learned a lot of information about Git functions!
 
 ---
 
+Hi everyone!
+I'm Nastya<3
+It was quite difficult for me, because I had some problems while doing the pull request:(
+Anyway, I learned a lot of new things about git and its commands!
+
+
 ## Привіт!
 I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
 ---
 
-=======
-
 ##Hello Its me Mario!
 I really enjoyed this course and took away a lot of useful information
 
-
-
 ## Hello 
 I'm Vasya
-
-
 
 Hi there
 At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
@@ -157,3 +170,28 @@ My name is Kirill and I would like to learn git
 ## Hello everyone!
 
 My name is Andrew! I love my university very much and I love drinking beer even more!
+
+## Hi!
+
+I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
+
+## Hi!
+
+My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
+=======
+ 
+## Hello!
+
+I'm Yulia. Thank you for very interesting material and the opportunity to learn something new. I think I can use it in my future job. Thank you!
+
+---
+## Hello there!
+
+- Gene.. I, Vova Dudko, am thrilled an estatic to learn web. Long journey ahead awaits, let's not keep it waiting for long.
+=========
+## Hi!
+I love web-technologies!
+
+
+## Feedback about the Git course (Anureva Katerina)
+To be honest, i worked with git beforem but i've never used something more than push because i worked with VSCode and didn't need more honestly. So this course made me really get so much new information about Git which i'm sure i'll use in a future. And also i always wanted to make this course but always 'didn't have time', so now i have one more achivment
